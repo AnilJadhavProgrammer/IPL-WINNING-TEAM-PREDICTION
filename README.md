@@ -39,12 +39,6 @@ matplotlib (optional for data visualization)**
 You can install these libraries using pip:
 **pip install numpy pandas scikit-learn matplotlib**
 
-**Usage**
-
-**Clone the Repository:**
-Clone this repository to your local machine.
-git clone **https://github.com/yourusername/ipl-winning-team-prediction.git**
-
 **Results**
 
 The project builds and evaluates several machine learning models to predict the winning team. The models' performance is evaluated using metrics such as accuracy, precision, and recall.
